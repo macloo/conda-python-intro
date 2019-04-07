@@ -21,6 +21,8 @@ Two days later, the students:
 3. Ran [a little script](tiny_script.py) from a file, and
 4. Downloaded a Jupyter Notebook with 12 beginner problems to solve (some problems are just making variables and using math operators) &mdash; that Notebook is *not* online. They had two days to solve the problems and turn them in for a grade.
 
+The 12 beginner problems are based on the outlines [at the end of the README here](https://github.com/macloo/python-beginners/tree/master/week01).
+
 ## Day 3
 
 Then I got ambitious in Week 2.
