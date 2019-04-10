@@ -38,6 +38,8 @@ To run that Notebook, you'll need to install these (in addition to Jupyter Noteb
 * BeautifulSoup4 (`conda install beautifulsoup4`)
 * Requests (`conda install requests`)
 
+As I expected, we did not finish this Notebook in the 50-min. class period. We did get to the part where we generate the second CSV file, named *state_university_system.csv*. This is just above the heading "We said we would get all the schools from all the lists, and we will."
+
 ## Day 4
 
 The second Notebook covers [Pandas](https://pandas.pydata.org/), a Python library for analyzing data. This beginner exercise is based largely on a workshop led by [Lam Thuy Vo](https://github.com/lamthuyvo) at NICAR19, with some additions from an online course called [Python for Journalists](https://datajournalism.com/watch/python-for-journalists/).
