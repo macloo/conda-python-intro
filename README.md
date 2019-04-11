@@ -49,3 +49,5 @@ The second Notebook covers [Pandas](https://pandas.pydata.org/), a Python librar
 To run that Notebook, you'll need to install this (in addition to Jupyter Notebook):
 
 * Pandas  (`conda install pandas`)
+
+This went well. The demo took about 45 minutes, with the students following along in the Notebook on their computers. They had downloaded the Notebook file and the CSV (*2016_census_data.csv*) two days earlier. They already had all the installs needed.
